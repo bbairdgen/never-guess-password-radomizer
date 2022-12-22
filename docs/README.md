@@ -14,7 +14,7 @@ To use the site, click on Generate Password to open the prompts. Make sure you e
 
 To access the site click here [https://bbairdgen.github.io/never-guess-password-randomizer/](https://bbairdgen.github.io/never-guess-password-randomizer/).
 
-![Screenshot of Password Generator](./Assets/Screen%20Shot%202022-12-21%20at%2010.30.49%20PM.png)
+![Screenshot of Password Generator](../Assets/Screen%20Shot%202022-12-21%20at%2010.30.49%20PM.png)
 
 Provide instructions and examples for use. Include screenshots as needed.
 
